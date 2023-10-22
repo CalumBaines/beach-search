@@ -1,0 +1,52 @@
+{
+    "hotels": [
+        {
+            "id": "1",
+            "name": "Iberostar Grand Salome",
+            "location": "Costa Adeje, Tenerife",
+            "rating": 5,
+            "occupants": {
+                "adults": 2
+            },
+            "dateOfArrival": "2023-10-22T00:00:00+0000",
+            "dateOfDeparture": "2023-10-29T00:00:00+0000",
+            "centAmount": 113650,
+            "image": "/assets/hotel-image-1.png",
+            "departureAirport": "East Midlands",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam risus leo, fermentum vel neque at, porttitor aliquet sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed in arcu non sem iaculis ornare. Mauris bibendum libero vel arcu finibus euismod. Etiam nec tincidunt massa. Nulla facilisi. Nunc placerat, neque nec sagittis condimentum, nisi lorem dictum lacus, ac malesuada urna turpis quis risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam risus leo, fermentum vel neque at, porttitor aliquet sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed in arcu non sem iaculis ornare. Mauris bibendum libero vel arcu finibus euismod. Etiam nec tincidunt massa. Nulla facilisi. Nunc placerat, neque nec sagittis condimentum, nisi lorem dictum lacus, ac malesuada urna turpis quis risus."
+        },
+        {
+            "id": "2",
+            "name": "Aguamarina Golf Hotel",
+            "location": "Costa Adeje, Tenerife",
+            "rating": 4,
+            "occupants": {
+                "adults": 2,
+                "children": 2,
+                "infants": 1
+            },
+            "dateOfArrival": "2023-10-24T00:00:00+0000",
+            "dateOfDeparture": "2023-10-30T00:00:00+0000",
+            "centAmount": 69680,
+            "image": "/assets/hotel-image-2.png",
+            "departureAirport": "East Midlands",
+            "info": "Nam tristique ipsum vel porta vulputate. Quisque et sapien justo. Nam bibendum, neque sit amet commodo iaculis, leo velit efficitur leo, quis euismod orci mi in est. Praesent eu libero faucibus mi consectetur dignissim pretium ut leo."
+        },
+        {
+            "id": "3",
+            "name": "Las Piramides Resort",
+            "location": "Costa Adeje, Tenerife",
+            "rating": 3,
+            "occupants": {
+                "adults": 2,
+                "children": 2
+            },
+            "dateOfArrival": "2023-10-18T00:00:00+0000",
+            "dateOfDeparture": "2023-10-25T00:00:00+0000",
+            "centAmount": 49999,
+            "image": "/assets/hotel-image-3.png",
+            "departureAirport": "East Midlands",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam risus leo, fermentum vel neque at, porttitor aliquet sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed in arcu non sem iaculis ornare. Mauris bibendum libero vel arcu finibus euismod. Etiam nec tincidunt massa. Nulla facilisi. Nunc placerat, neque nec sagittis condimentum, nisi lorem dictum lacus, ac malesuada urna turpis quis risus."
+        }
+    ]
+}
